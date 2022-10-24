@@ -1,1 +1,1 @@
-# competative-programming-trainning
+# Some Codeforces Solutions
