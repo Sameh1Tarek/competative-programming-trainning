@@ -1,1 +1,1 @@
-# Some Codeforces Solutions
+# About Different problem solving topics
